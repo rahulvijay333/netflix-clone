@@ -6,21 +6,20 @@ Beautiful Netflix-style Flutter application that showcases real movie and TV dat
 
 ### Screenshots
 
-#Home
+#### Home
+<img src="lib/screenshots/home.png" alt="Home screen" width="300"/>
 
-<img src="lib/screenshots/home.png" alt="Alt text" width="300"/>
+#### New & Hot
+<img src="lib/screenshots/new_and_hot.png" alt="New & Hot screen" width="300"/>
 
-#New & Hot
-<img src="lib/screenshots/new_and_hot.png" alt="Alt text" width="300"/>
+#### Fast Laughs
+<img src="lib/screenshots/fast_laughs.png" alt="Fast Laughs screen" width="300"/>
 
-#Fast Laughs
-<img src="lib/screenshots/fast_laughs.png" alt="Alt text" width="300"/>
+#### Search
+<img src="lib/screenshots/search.png" alt="Search screen" width="300"/>
 
-#Search
-<img src="lib/screenshots/search.png" alt="Alt text" width="300"/>
-
-#Downloads
-<img src="lib/screenshots/downloads.png" alt="Alt text" width="300"/>
+#### Downloads
+<img src="lib/screenshots/downloads.png" alt="Downloads screen" width="300"/>
 
 
 ---

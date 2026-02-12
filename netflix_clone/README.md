@@ -140,19 +140,21 @@ From the `netflix_clone` directory:
 
 ### Screenshots
 
-Place your screenshots in `lib/screenshots/` and ensure the filenames below match your actual files.  
-Example screenshot layout:
-
-
+Home
 <img src="lib/screenshots/home.png" alt="Alt text" width="300"/>
 
-```markdown
-![Home](netflix_clone/lib/screenshots/home.png)
-![New & Hot](lib/screenshots/new_and_hot.png)
-![Fast Laughs](lib/screenshots/fast_laughs.png)
-![Search](lib/screenshots/search.png)
-![Downloads](lib/screenshots/downloads.png)
-```
+New & Hot
+<img src="lib/screenshots/new_and_hot.png" alt="Alt text" width="300"/>
+
+Fast Laughs
+<img src="lib/screenshots/fast_laughs.png" alt="Alt text" width="300"/>
+
+Search
+<img src="lib/screenshots/search.png" alt="Alt text" width="300"/>
+
+Downloads
+<img src="lib/screenshots/downloads.png" alt="Alt text" width="300"/>
+
 
 ---
 

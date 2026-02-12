@@ -4,6 +4,27 @@ Beautiful Netflix-style Flutter application that showcases real movie and TV dat
 
 ---
 
+### Screenshots
+
+#Home
+
+<img src="lib/screenshots/home.png" alt="Alt text" width="300"/>
+
+#New & Hot
+<img src="lib/screenshots/new_and_hot.png" alt="Alt text" width="300"/>
+
+#Fast Laughs
+<img src="lib/screenshots/fast_laughs.png" alt="Alt text" width="300"/>
+
+#Search
+<img src="lib/screenshots/search.png" alt="Alt text" width="300"/>
+
+#Downloads
+<img src="lib/screenshots/downloads.png" alt="Alt text" width="300"/>
+
+
+---
+
 ### Features
 
 - **Home**
@@ -137,26 +158,5 @@ From the `netflix_clone` directory:
      ```
 
 ---
-
-### Screenshots
-
-Home
-<img src="lib/screenshots/home.png" alt="Alt text" width="300"/>
-
-New & Hot
-<img src="lib/screenshots/new_and_hot.png" alt="Alt text" width="300"/>
-
-Fast Laughs
-<img src="lib/screenshots/fast_laughs.png" alt="Alt text" width="300"/>
-
-Search
-<img src="lib/screenshots/search.png" alt="Alt text" width="300"/>
-
-Downloads
-<img src="lib/screenshots/downloads.png" alt="Alt text" width="300"/>
-
-
----
-
 
 This project is intended as a learning/demo app for Flutter, state management with BLoC, layered architecture, and consuming a real-world REST API with clean separation of concerns.

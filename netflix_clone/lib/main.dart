@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
           create: (context) => getIt<HomeBloc>(),
         )
       ],
-      child: MaterialApp(
+      child: MaterialApp(debugShowCheckedModeBanner: false,
           theme: ThemeData(
               appBarTheme: const AppBarTheme(color: Colors.transparent),
               scaffoldBackgroundColor: backgroundColor,

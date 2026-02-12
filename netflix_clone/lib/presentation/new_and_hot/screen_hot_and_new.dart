@@ -17,7 +17,10 @@ class ScreenHotAndNew extends StatelessWidget {
             child: AppBar(
               title: const Text(
                 'New & Hot',
-                style: TextStyle(fontSize: 35, fontWeight: FontWeight.w900),
+                style: TextStyle(
+                    fontSize: 35,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white),
               ),
               actions: [
                 const Icon(
@@ -46,18 +49,22 @@ class ScreenHotAndNew extends StatelessWidget {
                   labelStyle: const TextStyle(
                       fontSize: 16, fontWeight: FontWeight.bold),
                   labelPadding: const EdgeInsets.all(8),
+                  
                   unselectedLabelColor: kwhiteColor,
+                  dividerColor: Colors.transparent,
                   labelColor: Colors.black,
                   indicator: BoxDecoration(
                       color: kwhiteColor.withOpacity(0.8),
                       borderRadius:
-                          const BorderRadius.all(Radius.circular(30))),
+                          const BorderRadius.all(Radius.circular(8))),
                   tabs: const [
                     Text(
-                      " 🍿 Coming soon",
+                      "🍿 Coming soon ",style:  TextStyle(
+                      fontSize: 14),
                     ),
                     Text(
-                      "👀 Everyone's watching",
+                      "👀 Everyone's watching ",style:  TextStyle(
+                      fontSize: 14),
                     )
                   ]),
             ),

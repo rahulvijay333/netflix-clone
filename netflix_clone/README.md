@@ -144,6 +144,7 @@ Place your screenshots in `lib/screenshots/` and ensure the filenames below matc
 Example screenshot layout:
 
 ```markdown
+<img src="lib/screenshots/home.png" alt="Alt text" width="300"/>
 ![Home](netflix_clone/lib/screenshots/home.png)
 ![New & Hot](lib/screenshots/new_and_hot.png)
 ![Fast Laughs](lib/screenshots/fast_laughs.png)
